@@ -1,6 +1,6 @@
 ## Open-Source-Contributions (Merged)
 
-* ### **Count: 5**
+## **Count: 5**
 
 - ### Python
 1. https://github.com/python/cpython/pull/146644
