@@ -1,5 +1,3 @@
-## Open-Source-Contributions (Merged)
-
 ### **Count: 5**
 
 ---
