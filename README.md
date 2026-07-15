@@ -1,7 +1,9 @@
-### **Count: 5**
+### **Count: 7**
 
 ### [Python](https://github.com/python/cpython) - [73.8k Stars]
 1. https://github.com/python/cpython/pull/146644
+2. https://github.com/python/cpython/pull/153759
+3. https://github.com/python/cpython/pull/153760
 
 ### [Vite](https://github.com/vitejs/vite) - [82k Stars]
 1. https://github.com/vitejs/vite/pull/21964, 
