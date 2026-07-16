@@ -1,8 +1,8 @@
 ### **Count: 7**
 
 ### [Python](https://github.com/python/cpython) - [73.8k Stars]
-1. https://github.com/python/cpython/pull/146644
-2. https://github.com/python/cpython/pull/153759
+1. https://github.com/python/cpython/pull/146644,
+2. https://github.com/python/cpython/pull/153759,
 3. https://github.com/python/cpython/pull/153760
 
 ### [Vite](https://github.com/vitejs/vite) - [82k Stars]
@@ -14,4 +14,6 @@
 2. https://github.com/cloudflare/vinext/releases/tag/v0.0.32, 
 3. https://github.com/cloudflare/vinext/pull/2403, 
 4. https://github.com/cloudflare/vinext/pull/2404, 
-5. https://github.com/cloudflare/vinext/releases/tag/vinext%400.2.0
+5. https://github.com/cloudflare/vinext/releases/tag/vinext%400.2.0,
+6. https://github.com/cloudflare/vinext/pull/2634, 
+7. https://github.com/cloudflare/vinext/pull/2637
