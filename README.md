@@ -25,3 +25,4 @@
 13. https://github.com/cloudflare/vinext/pull/2649,
 14. https://github.com/cloudflare/vinext/pull/2650,
 15. https://github.com/cloudflare/vinext/pull/2651
+16. https://github.com/cloudflare/vinext/releases/tag/vinext%401.0.0-beta.3
